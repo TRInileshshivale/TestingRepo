@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,8 +9,8 @@ namespace PensInfo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("xyz12134");
             Console.ReadLine();
-            Console.WriteLine();
         }
     }
 }
