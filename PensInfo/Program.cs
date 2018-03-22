@@ -10,6 +10,8 @@ namespace PensInfo
     {
         static void Main(string[] args)
         {
+            Console.ReadLine();
+            Console.WriteLine();
         }
     }
 }
